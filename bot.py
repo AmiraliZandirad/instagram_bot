@@ -1,3 +1,4 @@
+# §.•´¨'°÷•..×   🎀  𝒜𝓂𝒾𝓇𝒶𝓁𝒾 𝒵𝒶𝓃𝒹𝒾  🎀   ×..•÷°'¨´•.§
 from time import sleep
 from selenium import webdriver
 
